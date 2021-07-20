@@ -7,9 +7,9 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarnayak&layout=compact)](https://github.com/sagarnayak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APU-Stark&layout=compact)](https://github.com/APU-Stark/github-readme-stats)
 
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sagarnayak&show_icons=true&theme=gotham" alt="sagarnayak" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=APU-Stark&show_icons=true&theme=gotham" alt="stark" />
